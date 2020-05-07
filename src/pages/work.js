@@ -1,10 +1,11 @@
 import React from 'react'
+import Layout from "../components/Layout"
 
 const work = () => {
     return (
-        <div>
-            this is my my work page.
-        </div>
+        <Layout>
+            work page
+        </Layout>
     )
 }
 

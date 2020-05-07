@@ -1,10 +1,11 @@
 import React from 'react'
+import Layout from "../components/Layout"
 
 const skills = () => {
     return (
-        <div>
-            this is my skills page.
-        </div>
+        <Layout>
+            skills page
+        </Layout>
     )
 }
 

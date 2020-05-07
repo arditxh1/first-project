@@ -1,11 +1,12 @@
 import React from 'react'
+import Layout from "../components/Layout"
 
-const testimonials = () => {
+const skills = () => {
     return (
-        <div>
-            this is my testimonials page.
-        </div>
+        <Layout>
+            skills page
+        </Layout>
     )
 }
 
-export default testimonials
+export default skills

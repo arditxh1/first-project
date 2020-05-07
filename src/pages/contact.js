@@ -1,10 +1,11 @@
 import React from 'react'
+import Layout from "../components/Layout"
 
 const contact = () => {
     return (
-        <div>
-            this is my contact page.
-        </div>
+        <Layout>
+            contact page
+        </Layout>
     )
 }
 
